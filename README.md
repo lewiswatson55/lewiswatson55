@@ -17,10 +17,11 @@ Feel free to reach out on my socials!</p><br>
   <img align="center" alt="Lewis N Watson | Website" width="25px" src="https://raw.githubusercontent.com/lewiswatson55/lewiswatson55/master/assets/web.svg" />
 </a>
 <br>
-<a href="https://www.buymeacoffee.com/lewisnwatson" target="_blank">
+<!--<a href="https://www.buymeacoffee.com/lewisnwatson" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="75" >
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=lewisnwatson.readme" alt="Buy Me A Coffee" width="75" >
+-->
 </p>
 
 <br>
