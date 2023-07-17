@@ -1,6 +1,6 @@
 <h1 align="center">Lewis N Watson - Github</h1>
 
-<br><p align="center">Hey! I'm Lewis and I'm a student studying towards my BSc Computer Science at Edinburgh Napier University. <br>
+<br><p align="center">Hey! I'm Lewis and I'm a PhD Researcher in the NLG Group at Edinburgh Napier University.<br>
 Feel free to reach out on my socials!</p><br>
 
 <!-- SOCIALS -->
